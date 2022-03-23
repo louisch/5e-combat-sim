@@ -12,14 +12,7 @@
       "type": "system"
     }
   ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    }
-  ],
   "esmodules": [
-    "scripts/main.js"
+    "dist/scripts/main.js"
   ]
 }
